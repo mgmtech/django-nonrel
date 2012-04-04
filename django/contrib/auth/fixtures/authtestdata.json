@@ -1,6 +1,6 @@
 [
     {
-        "pk": "1", 
+        "pk": "d3adb33f1", 
         "model": "auth.user", 
         "fields": {
             "username": "testclient", 
@@ -18,7 +18,7 @@
         }
     },
     {
-        "pk": "2", 
+        "pk": "d3adb33f2", 
         "model": "auth.user", 
         "fields": {
             "username": "inactive", 
@@ -36,7 +36,7 @@
         }
     },
     {
-        "pk": "3", 
+        "pk": "d3adb33f3", 
         "model": "auth.user", 
         "fields": {
             "username": "staff", 
