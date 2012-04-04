@@ -1,6 +1,6 @@
 [
     {
-        "pk": "d3adb33f1", 
+        "pk": "4f7c7f166cf7f07811000001", 
         "model": "auth.user", 
         "fields": {
             "username": "testclient", 
@@ -18,7 +18,7 @@
         }
     },
     {
-        "pk": "d3adb33f2", 
+        "pk": "4f7c7f166cf7f07811000002", 
         "model": "auth.user", 
         "fields": {
             "username": "inactive", 
@@ -36,7 +36,7 @@
         }
     },
     {
-        "pk": "d3adb33f3", 
+        "pk": "4f7c7f166cf7f07811000003", 
         "model": "auth.user", 
         "fields": {
             "username": "staff", 
